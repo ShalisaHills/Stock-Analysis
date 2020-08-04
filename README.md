@@ -7,7 +7,7 @@ The purpose of this analysis was to analyze various green energy stocks to ensur
 
 ###**Results** 
 Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
-VBA Challenge Resources/VBA_Challenge_2017.png
+[2017 Result] (VBA Challenge Resources/2017_Results.png)
 
 
 
