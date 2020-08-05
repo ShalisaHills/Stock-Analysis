@@ -15,7 +15,7 @@ In 2018, DQ stock plummeted to a -62.6% return, SEDG dropped to -7.8% but ENPH h
 
 **Refactoring**
 Prior to refactoring the code the can ran over 3 seconds for both 2017 & 2018 data.  Once the code was refactored the time dropped to less than one second for both analysis.  
-[2017 refactoring results] ()
+[2017 refactoring results] (VBA Challenge Resources/VBA_Challenge_2017.png)
 
 [2018 refactoring results]()
 
